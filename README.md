@@ -48,7 +48,10 @@ I build end-to-end scalable applications—from architecting RESTful APIs and da
 
 ### 💼 Work Experience Highlights
 
-- **Workers Bay** | *Full Stack Developer* `Feb 2025 – Present`
+- **Freelance** | *Full Stack Developer* `March 2026 – Present`
+  - Develop and maintain client projects across Flutter mobile apps, Python backends, and React web applications.
+  - Handle feature development, technical implementation, deployment coordination, and ongoing maintenance based on client requirements.
+- **Workers Bay** | *Full Stack Developer* `Feb 2025 – March 2026`
   - Sole backend engineer owning architecture across FastAPI, Django, and PHP.
   - Developed end-to-end mobile applications with integrated real-time Firebase features.
 - **Radarsoft Technologies** | *Flutter Developer* `Jun 2022 – Feb 2025`
